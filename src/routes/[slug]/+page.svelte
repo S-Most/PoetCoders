@@ -47,11 +47,6 @@
 		color: var(--text-2);
 	}
 
-	.prose p {
-		margin-block: .2rem;
-		padding-block: 0;
-	}
-
 	.tags {
 		display: flex;
 		gap: var(--size-3);
